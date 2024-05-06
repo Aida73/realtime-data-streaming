@@ -26,7 +26,7 @@ Here's a summary of the main steps and technologies used:
     com.datastax.spark:spark-cassandra-connector_2.12:3.1.0 spark_stream.py
     ```
 
-- You can visit the control center page (link available in the Docker Dektop Dashboard) to visualize the fetched from the API in the Topic users_created.
+- You can visit the control center page (link available in the Docker Desktop Dashboard) to visualize the fetched data from the API in the Topic users_created.
 - Enter into the cassandra container to visualize data fetched from kafka.
 
 ## Technical Stacks Used: 
